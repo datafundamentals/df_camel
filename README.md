@@ -1,7 +1,7 @@
 # df_camel cookbook
 This cookbook installs and configures an Apache Camel application onto a server. 
 # Requirements
-
+this cookbook requires a working instance of Java to be working on your machine, preferably Java 1.6 or newer
 # Usage
 
 # Attributes
