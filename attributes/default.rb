@@ -1,0 +1,1 @@
+default['camel']['source'] = "/vagrant/binaries/apache-camel-2.12.3.tar.gz"
